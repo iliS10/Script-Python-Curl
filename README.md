@@ -3,14 +3,19 @@ Script python with curl fonctionnalitises working with requests and BeautifulSou
 
 How to use:
 
-1)Download Beautiful and requests librairies 
+1)Clone the repo
+
+``git clone https://github.com/iliS10/Script-Python-Curl/
+``
+
+2)Download Beautiful and requests librairies 
 
 ``pip install beautifulsoup4
 ``
 
 ``pip install requests``
 
-2)Run the script in the cmd
+3)Run the script in the cmd
 
 ``cd ..\Python-Script-Curl\``
 
