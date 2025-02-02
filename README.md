@@ -1,5 +1,5 @@
 # Script-Python-Curl
-Script python with curl fonctionnalitises working with requests and BeautifulSoup 
+Script python with curl that download the source code of the front end of a website working with requests and BeautifulSoup 
 
 How to use:
 
